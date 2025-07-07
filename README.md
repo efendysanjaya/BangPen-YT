@@ -7,8 +7,7 @@ Repo ini dibuat dengan tujuan agar memudahkan viewer untuk mengikuti proses inst
 ## Tutorial Assets
 Yuk Bangun Homeserver
 
-- **[Portainer](./portainer/)** - 59 applications
-- 
+- **[BangunHomeserver](./BangunHomeserver/)** - 1 Episodes
 ## Daftar Pustaka
 
 Setiap directory dipisahkan berdasarkan episode pada video di youtube :
