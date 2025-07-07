@@ -2,7 +2,7 @@
 
 YouTube Link: [https://www.youtube.com/@fnd9244](https://www.youtube.com/@fnd9244)
 
-This repository contains installation guides and Docker Compose files for various self-hosted applications across different platforms.
+Repo ini dibuat dengan tujuan agar memudahkan viewer untuk mengikuti proses instalasi dalam membangun homserver.
 
 ## Tutorial Assets
 Yuk Bangun Homeserver
