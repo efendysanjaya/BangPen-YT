@@ -10,7 +10,7 @@ Pop-OS!
 ```text
 https://system76.com/pop/download/
 ```
-Upgrade Software & Driver 
+## Upgrade Software & Driver 
 (Pulling Repo & Update List)
 ```text
 sudo apt-get update
