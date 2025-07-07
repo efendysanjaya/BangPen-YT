@@ -1,6 +1,6 @@
-# Big Bear Video Assets
+# BangPen-YT
 
-YouTube Link: https://www.youtube.com/@bigbeartechworld
+YouTube Link: [https://www.youtube.com/@bigbeartechworld](https://www.youtube.com/@fnd9244)
 
 This repository contains installation guides and Docker Compose files for various self-hosted applications across different platforms.
 
@@ -30,7 +30,3 @@ platform/
     ├── docker-compose.yml
     └── README.md
 ```
-
-# Support My Work
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E5NDK3I)
