@@ -1,7 +1,7 @@
 ## YouTube Video
-```text
+
 YouTube Link: [Episode 0](https://youtu.be/-1-utLheVrg)
-```
+
 ## Bahan - bahan
 
 Iso to Flashdisk
