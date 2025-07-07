@@ -1,6 +1,6 @@
 ## YouTube Video
 ```text
-https://youtu.be/-1-utLheVrg
+YouTube Link: [Episode 0](https://youtu.be/-1-utLheVrg)
 ```
 ## Bahan - bahan
 
