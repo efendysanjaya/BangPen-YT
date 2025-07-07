@@ -11,7 +11,5 @@ Pop-OS!
 https://system76.com/pop/download/
 ```
 Upgrade Software & Driver
-```text
 sudo apt-get update #Pulling Repo & Update List
 sudo apt-get upgrade #Download & Install Update
-```
