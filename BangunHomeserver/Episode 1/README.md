@@ -1,16 +1,14 @@
 ## YouTube Video
 
-YouTube Link: [Episode 0](https://youtu.be/-1-utLheVrg)
+YouTube Link: [Episode 1](https://youtu.be/-1-utLheVrg)
 
-## Bahan - bahan
+## Install Docker
 
-Iso to Flashdisk
 ```text
-https://github.com/pbatard/rufus/releases
+sudo apt-get update
 ```
-Pop-OS!
 ```text
-https://system76.com/pop/download/
+sudo apt-get install ca-certificates curl gnupg lsb-release
 ```
 ## Upgrade Software & Driver 
 (Pulling Repo & Update List)
