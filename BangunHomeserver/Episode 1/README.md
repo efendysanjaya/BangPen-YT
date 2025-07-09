@@ -1,6 +1,6 @@
 ## YouTube Video
 
-YouTube Link: [Episode 1](https://youtu.be/-1-utLheVrg)
+YouTube Link: [Episode 1](https://youtu.be/mNEXuJcmz7c)
 
 ## Install Docker
 
