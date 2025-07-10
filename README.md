@@ -7,11 +7,11 @@ Repo ini dibuat dengan tujuan agar memudahkan viewer untuk mengikuti proses inst
 ## Tutorial Assets
 Yuk Bangun Homeserver
 
-- **[BangunHomeserver](./BangunHomeserver/)** - 1 Episodes
+- **[BangunHomeserver](./BangunHomeserver/)** - 3 Episodes
 ## Daftar Pustaka
 
 Setiap directory dipisahkan berdasarkan episode pada video di youtube :
 
-- `docker-compose.yml` - Ini untuk push services via portainer
+- `docker-stack.yml` - Ini untuk push services via portainer
 - `README.md` - Ini berisikan instruksi instalasi
 
