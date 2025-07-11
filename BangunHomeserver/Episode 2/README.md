@@ -1,6 +1,6 @@
 ## YouTube Video
 
-YouTube Link: [Episode 2](https://youtu.be/mNEXuJcmz7c)
+YouTube Link: [Episode 2](https://youtu.be/oksJH4e2IJA)
 
 ## Cek status Port 53(DNS):
 ```
