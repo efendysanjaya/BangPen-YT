@@ -1,6 +1,6 @@
 ## YouTube Video
 
-YouTube Link: [Episode 3](https://youtu.be/oksJH4e2IJA)
+YouTube Link: [Episode 3](https://youtu.be/zOCgyt_A9n4)
 
 ## Docker Image:
 ```
